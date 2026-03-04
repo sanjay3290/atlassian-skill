@@ -1,0 +1,17 @@
+{
+  "name": "atlassian-skill",
+  "owner": { "name": "Sanjay" },
+  "metadata": {
+    "description": "Atlassian (Jira + Confluence) skill for AI coding assistants",
+    "version": "1.0.0",
+    "license": "Apache-2.0"
+  },
+  "plugins": [
+    {
+      "name": "atlassian",
+      "description": "Manage Jira issues and Confluence wiki pages in Atlassian Cloud with OAuth 2.1 or API token authentication.",
+      "source": "./",
+      "skills": ["./"]
+    }
+  ]
+}
