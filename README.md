@@ -44,7 +44,7 @@ Jira + Confluence integration for AI coding assistants with dual auth support (O
 ### Gemini CLI / Cursor / Codex / Goose
 
 ```bash
-npx ai-skills add sanjay3290/atlassian-skill
+npx skills add sanjay3290/atlassian-skill
 ```
 
 ## Setup
